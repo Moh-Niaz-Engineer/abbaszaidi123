@@ -1,12 +1,16 @@
-<h1 align="center">Hi 👋, I'm Abbas Zee</h1>
+<h1 align="center">Hi 👋, I'm Moh Niaz</h1>
 Senior Software Engineer | Building Scalable Applications | System Design Enthusiast | Cross Functional Collaborator
 
 ## About Me
-A results-driven Senior Software Engineer with over 8 years of experience delivering scalable, high-quality software solutions and machine learning-driven applications across diverse industries. I specialize in full-cycle product development from architecture design and infrastructure planning to implementation, deployment, and maintenance while also applying machine learning techniques to solve real-world problems and enhance business outcomes. I have successfully led cross-functional engineering teams, mentored junior developers, and collaborated with stakeholders to translate complex business and data requirements into robust, production-ready solutions. With a strong focus on clean code, system reliability, and ethical AI practices, I bring a unique combination of full stack engineering expertise and practical machine learning experience. My commitment to continuous improvement, innovation, and delivering measurable business value positions me as a forward-thinking technical leader.
+Senior Software Engineer with 6+ years of experience architecting and delivering scalable, high-performance software solutions for complex business challenges. Skilled in designing clean, maintainable, and secure system architectures with a strong emphasis on scalability, reliability, and performance optimization.
+
+Experienced in leading projects from concept to deployment, building robust backend systems, APIs, and cloud-native applications that drive business growth and enhance user experience. Passionate about writing efficient code, solving challenging engineering problems, and implementing best practices in software development.
+
+Strong collaborator with cross-functional teams, experienced in mentoring engineers, improving development workflows, and contributing to resilient, future-ready systems that support continuous innovation and organizational success.
 
 ## Experiences
 ### Senior Software Engineer
-### AAC1 Enterprises Inc — December 2022 – Present
+### Codeiz — December 2023 – Present
 ### Remote
 
 * Led end-to-end system architecture and scalable full-stack development.
@@ -22,4 +26,3 @@ A results-driven Senior Software Engineer with over 8 years of experience delive
 
 ## Contact
 
-Email: [Abbas Zaidi](iabbas.zee@gmail.com)
